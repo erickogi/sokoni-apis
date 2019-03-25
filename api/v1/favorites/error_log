@@ -1,0 +1,99 @@
+[24-Feb-2019 09:21:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:233
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/favorites/addFavourite.php(24): ProductsDbHandler->product(NULL)
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 233
+[24-Feb-2019 09:25:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:233
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/favorites/addFavourite.php(24): ProductsDbHandler->product(NULL)
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 233
+[24-Feb-2019 09:26:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:233
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/favorites/addFavourite.php(24): ProductsDbHandler->product('1')
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 233
+[24-Feb-2019 09:27:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:233
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/favorites/addFavourite.php(24): ProductsDbHandler->product('1')
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 233
+[24-Feb-2019 09:28:15 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:233
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/favorites/addFavourite.php(24): ProductsDbHandler->product('1')
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 233
+[24-Feb-2019 09:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:233
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/favorites/addFavourite.php(24): ProductsDbHandler->product('1')
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 233
+[24-Feb-2019 09:29:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:233
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/favorites/addFavourite.php(24): ProductsDbHandler->product('1')
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 233
+[24-Feb-2019 09:29:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:233
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/favorites/addFavourite.php(24): ProductsDbHandler->product('1')
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 233
+[24-Feb-2019 11:53:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:495
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php(335): ProductsDbHandler->productStore(1)
+#1 /home2/emglnkmy/public_html/sokoni/api/v1/favorites/addFavourite.php(28): ProductsDbHandler->attachProductDetails(Array, Array)
+#2 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 495
+[24-Feb-2019 13:19:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ProductsDbHandler::favourotes() in /home2/emglnkmy/public_html/sokoni/api/v1/favorites/favourites.php:24
+Stack trace:
+#0 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/favorites/favourites.php on line 24
+[24-Feb-2019 13:20:49 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:575
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/favorites/favourites.php(24): ProductsDbHandler->favoriteProducts(Array)
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 575
+[24-Feb-2019 14:22:56 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:22:56 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:22:56 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:22:56 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:22:56 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:22:56 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:22:56 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:36:45 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:36:45 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:36:45 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:36:45 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:36:45 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:36:45 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 14:36:45 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 595 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 15:52:40 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 592 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 15:53:07 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 592 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 15:53:16 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 592 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 15:53:47 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 592 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 18:04:09 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 592 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 18:04:09 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 592 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 18:05:25 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 592 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[24-Feb-2019 18:05:25 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 592 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:06:55 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:06:55 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:07:23 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:07:23 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:07:23 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:07:23 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:07:23 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:07:23 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:07:23 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:07:23 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:07:23 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:07:24 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:08:35 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:08:35 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:08:35 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:08:35 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:08:35 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:08:35 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:08:35 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:08:35 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:08:35 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158
+[25-Feb-2019 11:08:35 UTC] PHP Warning:  Missing argument 2 for ProductsDbHandler::getProductRatingAndFavourite(), called in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 601 and defined in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 158

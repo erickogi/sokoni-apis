@@ -1,0 +1,2 @@
+[02-Mar-2019 22:48:54 UTC] PHP Warning:  Illegal string offset 'id' in /home2/emglnkmy/public_html/sokoni/api/v1/base/baseApi.php on line 27
+[02-Mar-2019 22:48:54 UTC] PHP Warning:  Illegal string offset 'items_quantity' in /home2/emglnkmy/public_html/sokoni/api/v1/base/baseApi.php on line 27

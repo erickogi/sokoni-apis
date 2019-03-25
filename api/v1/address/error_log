@@ -1,0 +1,26 @@
+[06-Mar-2019 03:41:49 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:41:49 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:41:59 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:41:59 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:42:06 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:42:06 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:43:22 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:43:22 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:44:29 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:44:29 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:47:12 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:47:12 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:47:16 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:47:16 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:47:18 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:47:18 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:50:33 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:50:33 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:50:38 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:50:38 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:50:40 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:50:40 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:50:58 UTC] PHP Warning:  mysqli_stmt::get_result(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 225
+[06-Mar-2019 03:50:58 UTC] PHP Warning:  mysqli_stmt::close(): Couldn't fetch mysqli_stmt in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 228
+[06-Mar-2019 03:52:14 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 232
+[06-Mar-2019 03:54:58 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Aouth.php on line 369

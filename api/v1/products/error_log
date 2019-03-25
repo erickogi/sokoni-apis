@@ -1,0 +1,104 @@
+[08-Mar-2019 21:43:17 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:775
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/products/searchProducts.php(22): ProductsDbHandler->searchByTag(Array)
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 775
+[08-Mar-2019 21:43:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:775
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/products/searchProducts.php(22): ProductsDbHandler->searchByTag('Iphone')
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 775
+[08-Mar-2019 21:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:775
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/products/searchProducts.php(22): ProductsDbHandler->searchByTag('Iphone')
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 775
+[08-Mar-2019 21:44:47 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on boolean in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php:775
+Stack trace:
+#0 /home2/emglnkmy/public_html/sokoni/api/v1/products/searchProducts.php(22): ProductsDbHandler->searchByTag('Iphone')
+#1 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 775
+[08-Mar-2019 22:13:29 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:13:29 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:29 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:29 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:29 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:13:39 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:13:39 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:39 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:39 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:39 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:13:49 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:13:49 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:49 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:49 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:49 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:13:51 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:13:51 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:51 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:51 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:13:51 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:14:11 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:14:11 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:14:11 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:14:11 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:14:11 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:14:28 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:14:28 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:14:28 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:14:28 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:14:28 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:16:28 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:16:28 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:16:28 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:16:28 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:16:28 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:16:37 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:16:37 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:16:37 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:16:37 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:16:37 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:16:44 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:16:44 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:16:44 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:16:44 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:16:44 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:17:03 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:17:03 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:17:03 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:17:03 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:17:03 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:17:05 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:17:05 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:17:05 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:17:05 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:17:05 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:18:31 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 875
+[08-Mar-2019 22:18:31 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:18:31 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:18:31 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:18:31 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:22:24 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:22:24 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:22:24 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:22:24 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:22:24 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 881
+[08-Mar-2019 22:23:06 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:23:06 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:23:06 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:23:06 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:23:06 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 881
+[08-Mar-2019 22:24:05 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 877
+[08-Mar-2019 22:24:05 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:24:05 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:24:05 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 879
+[08-Mar-2019 22:24:05 UTC] PHP Warning:  sort() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 881
+[12-Mar-2019 19:06:18 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 924
+[12-Mar-2019 19:06:18 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 924
+[12-Mar-2019 19:06:18 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 924
+[13-Mar-2019 06:22:50 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 928
+[13-Mar-2019 06:22:50 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 928
+[13-Mar-2019 06:22:50 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 928
+[13-Mar-2019 06:23:03 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 928
+[13-Mar-2019 06:23:03 UTC] PHP Warning:  array_unique() expects parameter 1 to be array, null given in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 928
+[13-Mar-2019 06:23:03 UTC] PHP Warning:  array_map(): Argument #2 should be an array in /home2/emglnkmy/public_html/sokoni/api/v1/classes/Products.php on line 928

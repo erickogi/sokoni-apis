@@ -1,0 +1,4 @@
+[04-Mar-2019 13:02:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method LocationsDbHandler::Countires() in /home2/emglnkmy/public_html/sokoni/api/v1/locations/countries.php:18
+Stack trace:
+#0 {main}
+  thrown in /home2/emglnkmy/public_html/sokoni/api/v1/locations/countries.php on line 18
